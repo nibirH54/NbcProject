@@ -1,0 +1,3 @@
+2022-01-10 08:05:52.927 [main][4350] INFO  automation_test.FillPizzaForm - ----------Start Test(FillPizzaForm)-----------
+2022-01-10 08:06:10.809 [main][22232] INFO  automation_test.FillPizzaForm - Browser is successfully initiated with the URL: http://localhost:63342/SQEDemonstrationChallengeProject/com.sample/files/index.html?_ijt=bq6l8b85bfdcgubvq4okhg8pc7&_ij_reload=RELOAD_ON_SAVE
+2022-01-10 08:06:10.875 [main][22298] DEBUG page_objects.Pizza - Choose pizza1 is: Large 10 Slices - 2 toppings
